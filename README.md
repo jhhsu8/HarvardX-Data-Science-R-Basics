@@ -1,1 +1,1 @@
-In this course, I learned the basics of analyzing, visualizing, and working with data using R.
+In this course, I learned the basics of analyzing, visualizing, and working with data using R.  I have completed this course. Please view my certificate of achievement at https://courses.edx.org/certificates/beef9fc0e10b4f82bcd391f4975b0218
